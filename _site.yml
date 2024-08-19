@@ -19,7 +19,7 @@ navbar:
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto: trinehybel@gmail.com                    # CHANGE HERE 
+      href: mailto:trinehybel@gmail.com                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/thybel       # CHANGE HERE 
